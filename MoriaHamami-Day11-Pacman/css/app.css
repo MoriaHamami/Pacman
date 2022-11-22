@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(200, 159, 159);
+  color: rgb(234, 217, 217);
+  font-family: Apple Chancery, cursive;
+  text-align: center;
+  
+}
+.header {
+  font-size: 50px;
+  text-shadow: -4px 1px 6px #a21a1a;
+}
+
+table {
+  margin: auto;
+  color: rgb(244, 232, 232);
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.hidden {
+  display: none;
+}
+
+.victorious {
+  font-size: 80px;
+}
+
+button {
+  background-color: #d76b6b;
+  color:rgb(236, 200, 200);
+  border-color: rgb(60, 35, 6);
+  border-width: 1px;
+  padding: 12px;
+  font-size: 17px;
+  font-family: Apple Chancery, cursive;
+  border-radius: 5px;
+  box-shadow: 0px 0px 14px 0px #752b2bc7;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #e18080;
+  border-color: #e18080;
+}
+
+img {
+  height: 30px;
+}
